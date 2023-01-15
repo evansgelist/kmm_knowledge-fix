@@ -32,6 +32,5 @@ https://kotlinlang.org/docs/multiplatform-mobile-understand-project-structure.ht
 https://kotlinlang.org/docs/multiplatform-mobile-integrate-in-existing-app.html
 <br/><br/>
 ### T. Publish your application ⭐
-##### @.dSYM <br/>
 https://kotlinlang.org/docs/multiplatform-mobile-publish-apps.html
 
